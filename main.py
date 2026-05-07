@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher
 from handlers import router  # Импортируем роутер из соседнего файла
 
 # Вставьте сюда токен, который выдал BotFather
-BOT_TOKEN = "7549231916:AAEANIDTswYdhfcrp6qV7E0JNsx9QAUt79E"
+BOT_TOKEN = ""
 
 
 async def main():
